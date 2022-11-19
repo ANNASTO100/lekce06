@@ -9,7 +9,12 @@ html { box-sizing: border-box; }
 	margin: 100px auto;
 	border: 1px dashed grey;
 }
+.box {background: url("images/siroke.jpg");
+	background-position: center center;
+	background-size:  cover;
+	background-repeat: repeat;
 
+}	
 /* ------------------------------------ */
 
 
